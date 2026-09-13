@@ -7,7 +7,8 @@ orgs/jsonholdings` with a token that has `admin:org`). Not applied by this sessi
 - **Description (≤160 chars, 84 used):** Privately held Ohio company. We publish the
   open-source infrastructure behind our software and services brands.
 - **Blog / URL:** https://jsonholdings.com
-- **Email:** accounts@jsonholdings.com (existing role mailbox; see AGENT-FACTS.md)
+- **Public email:** leave BLANK (orchestrator review 2026-09-12). accounts@ is the account's
+  email, and publishing it on the org page invites scraping and spam.
 
 No location, no logo file staged here (org avatar upload is a manual UI step; a Squire
 mark may exist by then at `github-org/squire/docs/assets/`, not copied into this repo).
