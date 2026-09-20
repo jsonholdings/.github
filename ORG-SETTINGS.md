@@ -10,5 +10,6 @@ orgs/jsonholdings` with a token that has `admin:org`). Not applied by this sessi
 - **Public email:** leave BLANK (orchestrator review 2026-09-12). accounts@ is the account's
   email, and publishing it on the org page invites scraping and spam.
 
-No location, no logo file staged here (org avatar upload is a manual UI step; a Squire
-mark may exist by then at `github-org/squire/docs/assets/`, not copied into this repo).
+No location, no logo file staged here (org avatar upload is a manual UI step). Note that
+the squire repository was made private on 2026-09-19 pending further testing, so any asset
+referenced from it by a raw.githubusercontent.com URL will 404 until it is public again.
